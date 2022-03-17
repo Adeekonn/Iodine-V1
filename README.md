@@ -6,5 +6,5 @@
  Spam mode
  Afk Mode
 
-# Tuorial 
+# Tutorial 
   A tutorial will soon be released.
