@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "pkg -c package.json --out-path ./dist/ index.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mineflayer": "^4.1.0",
+    "mineflayer-antiafk": "^1.1.1",
+    "mineflayer-web-inventory": "^1.6.4",
+    "pkg": "^5.5.2",
+    "prismarine-viewer": "^1.22.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
